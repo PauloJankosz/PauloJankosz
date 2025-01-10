@@ -49,4 +49,3 @@ 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
 <br>
 <br>
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=PauloJankosz&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&custom_title=Minhas%20Estatísticas&token=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" alt="PauloJankosz" />
