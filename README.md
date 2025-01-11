@@ -1,5 +1,9 @@
 ## Hi there ⭐
 
+
+## 💬 About me
+I'm Paulo, a Biomedical Informatics student at [UFPR](https://ufpr.br/) (Universidade Federal do Paraná), where I explore fields such as Computer Science, Bionformatics, and innovative technologies applied to healthcare, including medical image processing. Currently, I volunteer at [Ecomp](https://ecomp.co/) (Empresa Júnior de Computação), working as a front-end web developer and contributing to the Presidency and Quality (focusing on product quality and internal systems).
+
 <!--
 **PauloJankosz/PauloJankosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🖥️ Main technologies and tools
-<div style="display: inline-block">
+<div style="display: inline-block; background-color: blue ">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCODE" width="55" height="55"/>
@@ -45,7 +49,4 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="55" height="55"/>
 </div
-
 <br>
-<br>
-<p align="center"> 
